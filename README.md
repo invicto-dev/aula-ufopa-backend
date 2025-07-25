@@ -44,7 +44,7 @@ Se for baixar do GitHub:
 3. No terminal integrado, navegue até a pasta onde quer salvar o projeto. Por exemplo:
    cd %USERPROFILE%\Documents
 4. Baixe o projeto com:
-   git clone https://github.com/SEU_USUARIO/aula-ufopa-backend.git
+   git clone https://github.com/invicto-dev/aula-ufopa-backend.git
    (Troque pelo link do seu repositório, se for diferente.)
 
 ---
